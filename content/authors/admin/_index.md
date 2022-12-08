@@ -2,55 +2,53 @@
 title: Wenting Xu 徐文庭
 role: Student from the University of Manchester
 avatar_filename: avatar.jpg
-bio: My research interests include cyberpsychology, social psychology and
+bio: My research interests include cyber psychology, data science and
   programming.
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Cyber Psychology
+  - Sentiment Analysis
 social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/WenTing_Xu98
     label: Follow me on Twitter
     display:
       header: true
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=IyqsZ8IAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://github.com/azanghai
   - icon: cv
     icon_pack: ai
     link: uploads/resume.pdf
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: the University of Manchester
+    url: https://www.manchester.ac.uk/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: MRes Experimental Psychology with Data Science
+      institution: the University of Manchester
+      year: 2022
+    - course: BSc in Applied Psychology
+      institution: Soochow University, PRC
+      year: 2020
+    - course: BEng Metallurgical Engineering
+      institution: Soochow University, PRC
+      year: 2016
 superuser: true
 status:
-  icon: ☕️
-last_name: Wu
+  icon: ️📖
+last_name: Xu
 highlight_name: true
-first_name: Alice
-email: ""
+first_name: Wenting
+email: "xuwenting98@gmail.com"
 ---
-WeAlice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+
+Wenting Xu is a postgraduate psychology student with a background in engineering and science. His research interests lie in cyber psychology, social science and data science. He is currently involved in research on video addiction, social media and on linguistics. In all his research, he is dedicated to applying his knowledge in helping people and he is currently working as a volunteer in an NGO in China.
 {style="text-align: justify;"}
