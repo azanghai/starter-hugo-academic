@@ -12,6 +12,12 @@ social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
+  - icon: researchgate
+    icon_pack: ai
+    link: https://www.researchgate.net/profile/Wenting-Xu-3
+  - icon: orcid
+    icon_pack: ai
+    link: https://orcid.org/0000-0002-6671-3308
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/WenTing_Xu98
