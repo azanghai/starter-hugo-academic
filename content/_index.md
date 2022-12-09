@@ -212,7 +212,7 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        🌟🌟🌟Please use the contact form below or email me directly if you have any questions or want to chat. I'll be there in no time.😊
+        🌟🌟🌟Please use the contact form below or email me directly if you have any questions or just want to chat. I'll be there in no time.😊
       # Contact (add or remove contact options as necessary)
       email: xuwenting98@gmail.com
       contact_links:
