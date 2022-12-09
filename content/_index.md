@@ -131,8 +131,8 @@ sections:
           tag: '*'
         - name: Cyber Psychology
           tag: Cyber Psychology
-        - name: Other
-          tag: Demo
+        - name: Data Science
+          tag: Data Science
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'

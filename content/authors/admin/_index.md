@@ -40,13 +40,13 @@ education:
   courses:
     - course: MRes Experimental Psychology with Data Science
       institution: the University of Manchester
-      year: 2022
+      year: 2023
     - course: BSc in Applied Psychology
       institution: Soochow University, PRC
-      year: 2020
+      year: 2022
     - course: BEng Metallurgical Engineering
       institution: Soochow University, PRC
-      year: 2016
+      year: 2020
 superuser: true
 status:
   icon: ️📖

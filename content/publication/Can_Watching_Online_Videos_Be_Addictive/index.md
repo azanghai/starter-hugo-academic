@@ -41,7 +41,7 @@ featured: false
 tags:
   - Online Video
   - Qualitative Study
-projects: []
+projects: [Research Goup]
 image:
   caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/ecELcxmJTk4)"
   focal_point: ""

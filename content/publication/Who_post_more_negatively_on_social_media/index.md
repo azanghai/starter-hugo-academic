@@ -23,7 +23,7 @@ tags:
   - Negative Posts
   - Big data
   - Quantitative Study
-projects: []
+projects: [Research Goup]
 image:
   caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/qZenO_gQ7QA)"
   focal_point: ""

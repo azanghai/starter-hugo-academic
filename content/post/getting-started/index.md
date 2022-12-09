@@ -1,9 +1,9 @@
 ---
-title: Welcome to Wowchemy, the website builder for Hugo
-subtitle: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
+title: Who’s Trolling on the on the internet?
+subtitle: A science communication blog from previous research.
 
 # Summary for listings and search engines
-summary: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
+summary: Who’s Trolling on the on the internet? A science communication blog from previous research.
 
 # Link this post with a project
 projects: []
