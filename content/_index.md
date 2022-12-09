@@ -72,11 +72,11 @@ sections:
               * Advanced Mathematics
               * Probability & Statistics
     design:
-      columns: '1'
-  - block: accomplishments
+      columns: '2'
+  - block: accomplishments 
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: 'Accomplish&shy;ments'
+      title: 'Accomplish&shy;ments&shy;And&shy;Aawards'
       subtitle:
       # Date format: https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
