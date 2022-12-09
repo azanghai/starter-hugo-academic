@@ -57,14 +57,14 @@ Similarly, a related study found that too much time spent on the Internet may br
 It is not hard to see that many studies made so far have only suggested correlations, but still lack systematic integration. The factors that influence people's 'Trolling' on the internet are likely to be complex. Understanding this behaviour also requires more theory and data to be analysed. This is where we aim to take the next step in our research.
 
 So what can we do about internet trolls? We have selected some of Julia McCoy's(6) suggestions for people：
-* Don’t Feed the Trolls
-    Research has found(7) that trolls just want to get more attention or just to have fun, so by not engaging with them, they can be effectively suppressed.
-* Have Friends-Only Social Profiles
-    This solution is very simple, out of sight, out of mind.
-* Block, Ban, or Report Trolls
-    Everyone has a responsibility to respect and create a peaceful and friendly space on the internet.
-* Decompress Before You Reply
-    This is similar to the first one, but when you have to reply, remember that Trolls just want to have fun, and you are falling into their trap when you start to get angry.
+[x]Don’t Feed the Trolls
+   - Research has found(7) that trolls just want to get more attention or just to have fun, so by not engaging with them, they can be effectively suppressed.
+[x]Have Friends-Only Social Profiles
+   - This solution is very simple, out of sight, out of mind.
+[x]Block, Ban, or Report Trolls
+   - Everyone has a responsibility to respect and create a peaceful and friendly space on the internet.
+[x]Decompress Before You Reply
+   - This is similar to the first one, but when you have to reply, remember that Trolls just want to have fun, and you are falling into their trap when you start to get angry.
     
 ### Reference
 1.	Andreassen CS, Griffiths MD, Gjertsen SR, Krossbakken E, Kvam S, Pallesen S. The relationships between behavioral addictions and the five-factor model of personality. J Behav Addict. 2013 Apr 12;2(2):90–9. 
