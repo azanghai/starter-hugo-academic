@@ -216,10 +216,10 @@ sections:
       # Contact (add or remove contact options as necessary)
       email: xuwenting98@gmail.com
       contact_links:
-        - icon: envelope
-          icon_pack: fas
-          name: DM Me
-          link: /#contact
+#        - icon: envelope
+#          icon_pack: fas
+#          name: DM Me
+#          link: /#contact
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
