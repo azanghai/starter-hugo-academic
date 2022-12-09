@@ -24,7 +24,7 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-       - title: MRes Experimental Psychology with Data Science
+        - title: MRes Experimental Psychology with Data Science
           company: The University of Manchester
           company_url: 'https://www.manchester.ac.uk/'
           company_logo: 'UoM'
