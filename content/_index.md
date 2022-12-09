@@ -46,7 +46,7 @@ sections:
               * Data Analysing and Modeling
         - title: Bsc in Applied Psychology
           company: Soochow University
-          company_url: ''
+          company_url: 'https://www.suda.edu.cn/'
           company_logo: 'Soochow_University'
           location: Soochow, China
           date_start: '2020-09-01'
@@ -61,13 +61,18 @@ sections:
           description: Monitor and evaluate the outcome & impact of the projects delivered by the Organization. Conduct academic research among the youth group in northwest China.
         - title: BEng in Metallurgical Engineering
           company: Soochow University
-          company_url: ''
+          company_url: 'https://www.suda.edu.cn/'
           company_logo: 'Soochow_University'
           location: Soochow, China
           date_start: '2016-09-01'
           date_end: '2020-06-30'
+          description:|2-
+              Gained mathematical training during this Undergraduate period, including:
+              * Linear Algebra
+              * Advanced Mathematics
+              * Probability & Statistics
     design:
-      columns: '2'
+      columns: '1'
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
