@@ -9,7 +9,7 @@ summary: Who’s Trolling on the on the internet? A science communication blog f
 projects: []
 
 # Date published
-date: '2020-12-13T00:00:00Z'
+date: '2022-12-09T00:00:00Z'
 
 # Date updated
 lastmod: '2020-12-13T00:00:00Z'
@@ -33,78 +33,45 @@ authors:
 
 
 tags:
-  - Academic
-  - 开源
+  - Social Media
+  - science communication blog
 
 categories:
-  - Demo
-  - 教程
+  - Cyber Psychology
 ---
 
-```python
-import libr
-print('hello')
-```
+## Who’s Trolling on the on the internet?
 
-## Overview
+Do you like surfing the internet? What kind of social media do you use, Facebook, or Twitter? You must have come across a situation where you saw an interesting post and clicked on the comments section, only to scroll a few times and find someone complaining in the comments, or replying to someone else's comment with something unpleasant. Why do people like to "Troll" on the internet? What kind of people are you more likely to meet on the internet or in the comments section? Is it true that the longer you stay online, the more likely you are to become a "Troll"?
 
-1. The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site
-2. The template can be modified and customised to suit your needs. It's a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a **no-code solution (write in Markdown and customize with YAML parameters)** and having **flexibility to later add even deeper personalization with HTML and CSS**
-3. You can work with all your favourite tools and apps with hundreds of plugins and integrations to speed up your workflows, interact with your readers, and much more
+Like you, scholars are curious about the answer to this question. So, the scholars investigated the issue by distributing a questionnaire. And found that among a group of undergraduate college students in the United States, students became more anxious as they used their smartphones more frequently.(1) But as always, academics are critical, and another scholar found that this was not the case for some teenagers in Ireland, the UK and the US(2) . Why is this? One possibility is that people behave differently or choose different answers when they know they are participating in a study.
 
-[![The template is mobile first with a responsive design to ensure that your site looks stunning on every device.](https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/main/starters/academic/preview.png)](https://wowchemy.com)
+To solve this problem, we can directly collect how people behave on the internet. For example, using sentiment analysis to determine if your postings are full of negative emotions. Or we could use your online footprint (number of posts, social media rating) to determine if you are addicted to the internet. Based on this approach, and after a very long ethical evaluation, we have finally got the results.
 
-## Get Started
+In our study we found some interesting correlations among more than 2,000 social media users who had already posted negative content. As you might imagine, the majority of people who like to spread negative emotions or start arguments in the comments section are not very likely to choose to 'Troll' on their own homepage. Furthermore, depending on the gender of people who set up on their social media profiles, women do tend to be more active online and post more negatively than men (of course, this could also be because they post more often or have more followers).(3)
 
-- 👉 [**Create a new site**](https://wowchemy.com/templates/)
-- 📚 [**Personalize your site**](https://wowchemy.com/docs/)
-- 💬 [Chat with the **Wowchemy community**](https://discord.gg/z8wNYzb) or [**Hugo community**](https://discourse.gohugo.io)
-- 🐦 Twitter: [@wowchemy](https://twitter.com/wowchemy) [@GeorgeCushen](https://twitter.com/GeorgeCushen) [#MadeWithWowchemy](https://twitter.com/search?q=%23MadeWithWowchemy&src=typed_query)
-- 💡 [Request a **feature** or report a **bug** for _Wowchemy_](https://github.com/wowchemy/wowchemy-hugo-themes/issues)
-- ⬆️ **Updating Wowchemy?** View the [Update Tutorial](https://wowchemy.com/docs/hugo-tutorials/update/) and [Release Notes](https://wowchemy.com/updates/)
+In fact, based on previous research(4),it has been found that using the Internet for social purposes can have a negative impact on mental health. This can be explained in our study by the fact that if people post or comment on social media for social purposes, then posting more negative content may indicate poor mental health or well-being.
 
-## Crowd-funded open-source software
+Similarly, a related study found that too much time spent on the Internet may bring about negative emotions (5) . When people have more negative emotions, they will be more likely to let them out. This then induces more negative posts.
 
-To help us develop this template and software sustainably under the MIT license, we ask all individuals and businesses that use it to help support its ongoing maintenance and development via sponsorship.
+It is not hard to see that many studies made so far have only suggested correlations, but still lack systematic integration. The factors that influence people's 'Trolling' on the internet are likely to be complex. Understanding this behaviour also requires more theory and data to be analysed. This is where we aim to take the next step in our research.
 
-### [❤️ Click here to become a sponsor and help support Wowchemy's future ❤️](https://wowchemy.com/sponsor/)
+So what can we do about internet trolls? We have selected some of Julia McCoy's(6) suggestions for people：
+1.	Don’t Feed the Trolls
+2.	Research has found(7) that trolls just want to get more attention or just to have fun, so by not engaging with them, they can be effectively suppressed.
+3.	Have Friends-Only Social Profiles
+This solution is very simple, out of sight, out of mind.
+4.	Block, Ban, or Report Trolls
+Everyone has a responsibility to respect and create a peaceful and friendly space on the internet.
+5.	Decompress Before You Reply
+This is similar to the first one, but when you have to reply, remember that Trolls just want to have fun, and you are falling into their trap when you start to get angry.
+Reference
+1.	Andreassen CS, Griffiths MD, Gjertsen SR, Krossbakken E, Kvam S, Pallesen S. The relationships between behavioral addictions and the five-factor model of personality. J Behav Addict. 2013 Apr 12;2(2):90–9. 
+2.	Przybylski AK, Weinstein N. A Large-Scale Test of the Goldilocks Hypothesis: Quantifying the Relations Between Digital-Screen Use and the Mental Well-Being of Adolescents. Psychol Sci. 2017 Feb 1;28(2):204–15. 
+3.	Yang Z, Xu W. Who post more negatively on social media? A large-scale sentiment analysis of Weibo users. Curr Psychol [Internet]. 2022 Aug 18 [cited 2022 Dec 5]; Available from: https://doi.org/10.1007/s12144-022-03616-8
+4.	Weiser EB. The Functions of Internet Use and Their Social and Psychological Consequences. Cyberpsychol Behav. 2001 Dec;4(6):723–43. 
+5.	Lepp A, Barkley JE, Karpinski AC. The relationship between cell phone use, academic performance, anxiety, and Satisfaction with Life in college students. Comput Hum Behav. 2014 Feb 1;31:343–50. 
+6.	McCoy J. 10 Effective Tactics to Defeat Internet Trolls [Internet]. Search Engine Journal. 2021 [cited 2022 Dec 9]. Available from: https://www.searchenginejournal.com/defeat-online-trolls/323439/
+7.	Buckels EE, Trapnell PD, Paulhus DL. Trolls just want to have fun. Personal Individ Differ. 2014 Sep 1;67:97–102. 
 
-As a token of appreciation for sponsoring, you can **unlock [these](https://wowchemy.com/sponsor/) awesome rewards and extra features 🦄✨**
 
-## Ecosystem
-
-- **[Hugo Academic CLI](https://github.com/wowchemy/hugo-academic-cli):** Automatically import publications from BibTeX
-
-## Inspiration
-
-[Check out the latest **demo**](https://academic-demo.netlify.com/) of what you'll get in less than 10 minutes, or [view the **showcase**](https://wowchemy.com/user-stories/) of personal, project, and business sites.
-
-## Features
-
-- **Page builder** - Create _anything_ with [**widgets**](https://wowchemy.com/docs/page-builder/) and [**elements**](https://wowchemy.com/docs/content/writing-markdown-latex/)
-- **Edit any type of content** - Blog posts, publications, talks, slides, projects, and more!
-- **Create content** in [**Markdown**](https://wowchemy.com/docs/content/writing-markdown-latex/), [**Jupyter**](https://wowchemy.com/docs/import/jupyter/), or [**RStudio**](https://wowchemy.com/docs/install-locally/)
-- **Plugin System** - Fully customizable [**color** and **font themes**](https://wowchemy.com/docs/customization/)
-- **Display Code and Math** - Code highlighting and [LaTeX math](https://en.wikibooks.org/wiki/LaTeX/Mathematics) supported
-- **Integrations** - [Google Analytics](https://analytics.google.com), [Disqus commenting](https://disqus.com), Maps, Contact Forms, and more!
-- **Beautiful Site** - Simple and refreshing one page design
-- **Industry-Leading SEO** - Help get your website found on search engines and social media
-- **Media Galleries** - Display your images and videos with captions in a customizable gallery
-- **Mobile Friendly** - Look amazing on every screen with a mobile friendly version of your site
-- **Multi-language** - 34+ language packs including English, 中文, and Português
-- **Multi-user** - Each author gets their own profile page
-- **Privacy Pack** - Assists with GDPR
-- **Stand Out** - Bring your site to life with animation, parallax backgrounds, and scroll effects
-- **One-Click Deployment** - No servers. No databases. Only files.
-
-## Themes
-
-Wowchemy and its templates come with **automatic day (light) and night (dark) mode** built-in. Alternatively, visitors can choose their preferred mode - click the moon icon in the top right of the [Demo](https://academic-demo.netlify.com/) to see it in action! Day/night mode can also be disabled by the site admin in `params.toml`.
-
-[Choose a stunning **theme** and **font**](https://wowchemy.com/docs/customization) for your site. Themes are fully customizable.
-
-## License
-
-Copyright 2016-present [George Cushen](https://georgecushen.com).
-
-Released under the [MIT](https://github.com/wowchemy/wowchemy-hugo-themes/blob/master/LICENSE.md) license.
