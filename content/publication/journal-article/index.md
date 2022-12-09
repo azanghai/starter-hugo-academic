@@ -18,7 +18,7 @@ abstract: "Watching online videos (including short-form videos) has become the
   users’ addictive-like behaviors in relation to specific types of online video
   content and their social interaction on these platforms."
 slides: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: https://www.mdpi.com/1660-4601/18/14/7247/pdf?version=1625646184
 publication_types:
   - "2"
 authors:
