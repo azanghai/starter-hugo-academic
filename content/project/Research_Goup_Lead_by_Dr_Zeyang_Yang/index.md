@@ -1,5 +1,5 @@
 ---
-title: Research Goup Lead by Dr.
+title: Research Goup Lead by Dr.Zeyang Yang
 summary: A Research Group Focous on Cyber Psychology.
 tags:
   - Cyber Psychology
