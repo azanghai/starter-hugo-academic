@@ -1,6 +1,6 @@
 ---
 title: Research Goup Lead by Dr.
-summary: An example of using the in-built project page.
+summary: A Research Group Focous on Cyber Psychology.
 tags:
   - Cyber Psychology
 date: '2016-04-27T00:00:00Z'
@@ -26,7 +26,6 @@ url_video: ''
 slides: ""
 ---
 
-|2-
 I have continued to contribute in Dr. Yang's team. The team's current research interests include: 
 * cyberpsychology
 * behavioural addiction
