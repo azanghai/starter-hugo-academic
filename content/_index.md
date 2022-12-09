@@ -24,27 +24,48 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+      - title: MRes Experimental Psychology with Data Science
+          company: The University of Manchester
+          company_url: 'https://www.manchester.ac.uk/'
+          company_logo: 'UoM'
+          location: Manchester, UK
+          date_start: '2022-09-15'
+          date_end: ''
         - title: Research Assistance
-          company: Research Group Lead by DR.Zeyang Yang
+          company: Research Group Lead by Dr.Zeyang Yang
           company_url: ''
           company_logo: 'Soochow_University'
-          location: Soochow
+          location: Soochow, China
           date_start: '2021-09-01'
           date_end: '2022-06-30'
           description: |2-
               Responsibilities include:
 
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
+              * Data Collecting
+              * Programming
+              * Data Analysing and Modeling
+        - title: Bsc in Applied Psychology
+          company: Soochow University
           company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          company_logo: 'Soochow_University'
+          location: Soochow, China
+          date_start: '2020-09-01'
+          date_end: '2022-06-30'
+        - title: Evaluation & Academic Research Officers
+          company: Youth Commonweal Practice Centre of Ningxia·Evaluation and Academic Research Department
+          company_url: 'https://www.cyouthchange.org/'
+          company_logo: Cyouthchange
+          location: Yinchuan, China
+          date_start: '2018-01-01'
+          date_end: ''
+          description: Monitor and evaluate the outcome & impact of the projects delivered by the Organization. Conduct academic research among the youth group in northwest China.
+        - title: BEng in Metallurgical Engineering
+          company: Soochow University
+          company_url: ''
+          company_logo: 'Soochow_University'
+          location: Soochow, China
+          date_start: '2016-09-01'
+          date_end: '2020-06-30'
     design:
       columns: '2'
   - block: accomplishments
