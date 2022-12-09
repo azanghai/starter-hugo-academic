@@ -47,7 +47,7 @@ image:
   focal_point: ""
   preview_only: false
   filename: https://unsplash.com/photos/ecELcxmJTk4
-date: 2015-09-01T00:00:00Z
+date: 2020-07-01T00:00:00Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00Z
 url_poster: ""
