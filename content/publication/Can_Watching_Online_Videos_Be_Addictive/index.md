@@ -37,7 +37,7 @@ url_video: ""
 title: "Can Watching Online Videos Be Addictive? "
 subtitle: A Qualitative Exploration of Online Video Watching among Chinese Young Adults
 doi: https://doi.org/10.3390/ijerph18147247
-featured: true
+featured: false
 tags:
   - Online Video
   - Qualitative Study
