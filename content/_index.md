@@ -24,13 +24,13 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
+        - title: Research Assistance
+          company: Research Group Lead by DR.Zeyang Yang
           company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
-          date_end: ''
+          company_logo: '/images/Soochow_University.svg'
+          location: Soochow
+          date_start: '2021-09-01'
+          date_end: '2022-06-30'
           description: |2-
               Responsibilities include:
 
