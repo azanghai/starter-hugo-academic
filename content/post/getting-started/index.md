@@ -56,7 +56,8 @@ Similarly, a related study found that too much time spent on the Internet may br
 
 It is not hard to see that many studies made so far have only suggested correlations, but still lack systematic integration. The factors that influence people's 'Trolling' on the internet are likely to be complex. Understanding this behaviour also requires more theory and data to be analysed. This is where we aim to take the next step in our research.
 
-So what can we do about internet trolls? We have selected some of Julia McCoy's(6) suggestions for people：
+So what can we do about internet trolls? We have selected some of Julia McCoy's(6) suggestions for people:
+
 [x]Don’t Feed the Trolls
    - Research has found(7) that trolls just want to get more attention or just to have fun, so by not engaging with them, they can be effectively suppressed.
 [x]Have Friends-Only Social Profiles
