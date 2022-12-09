@@ -27,7 +27,7 @@ sections:
         - title: Research Assistance
           company: Research Group Lead by DR.Zeyang Yang
           company_url: ''
-          company_logo: '/images/Soochow_University.svg'
+          company_logo: '/images/Soochow_University.png'
           location: Soochow
           date_start: '2021-09-01'
           date_end: '2022-06-30'
