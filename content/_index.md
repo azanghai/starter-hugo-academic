@@ -66,7 +66,7 @@ sections:
           location: Soochow, China
           date_start: '2016-09-01'
           date_end: '2020-06-30'
-          description:|2-
+          description: |2-
               Gained mathematical training during this Undergraduate period, including:
               * Linear Algebra
               * Advanced Mathematics
