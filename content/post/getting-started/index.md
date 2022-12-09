@@ -58,14 +58,15 @@ It is not hard to see that many studies made so far have only suggested correlat
 
 So what can we do about internet trolls? We have selected some of Julia McCoy's(6) suggestions for people：
 1.	Don’t Feed the Trolls
-2.	Research has found(7) that trolls just want to get more attention or just to have fun, so by not engaging with them, they can be effectively suppressed.
+    Research has found(7) that trolls just want to get more attention or just to have fun, so by not engaging with them, they can be effectively suppressed.
 3.	Have Friends-Only Social Profiles
-This solution is very simple, out of sight, out of mind.
+    This solution is very simple, out of sight, out of mind.
 4.	Block, Ban, or Report Trolls
-Everyone has a responsibility to respect and create a peaceful and friendly space on the internet.
+    Everyone has a responsibility to respect and create a peaceful and friendly space on the internet.
 5.	Decompress Before You Reply
-This is similar to the first one, but when you have to reply, remember that Trolls just want to have fun, and you are falling into their trap when you start to get angry.
-Reference
+    This is similar to the first one, but when you have to reply, remember that Trolls just want to have fun, and you are falling into their trap when you start to get angry.
+    
+### Reference
 1.	Andreassen CS, Griffiths MD, Gjertsen SR, Krossbakken E, Kvam S, Pallesen S. The relationships between behavioral addictions and the five-factor model of personality. J Behav Addict. 2013 Apr 12;2(2):90–9. 
 2.	Przybylski AK, Weinstein N. A Large-Scale Test of the Goldilocks Hypothesis: Quantifying the Relations Between Digital-Screen Use and the Mental Well-Being of Adolescents. Psychol Sci. 2017 Feb 1;28(2):204–15. 
 3.	Yang Z, Xu W. Who post more negatively on social media? A large-scale sentiment analysis of Weibo users. Curr Psychol [Internet]. 2022 Aug 18 [cited 2022 Dec 5]; Available from: https://doi.org/10.1007/s12144-022-03616-8
